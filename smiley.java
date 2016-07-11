@@ -8,7 +8,7 @@ public void init(){
 this.resize(900,800);
 }
 public void paint(Graphics g){
-	setBackground(Color.cyan);
+	setBackground(Color.red);
 	g.setColor(Color.yellow);
 	g.fillOval(50, 50, 75, 75);
 	g.setColor(Color.black);
